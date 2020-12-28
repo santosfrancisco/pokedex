@@ -73,6 +73,8 @@ const apolloServer = new ApolloServer({
   dataSources: () => ({
     pokeAPI: new PokeAPI(),
   }),
+  introspection: true,
+  playground: true,
 });
 
 export const config = {
