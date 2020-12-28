@@ -1,5 +1,9 @@
 # PokeAPI em Graphql
 
+Demo online: https://pokedex-amber-two.vercel.app/
+
+Playground Graphql: https://pokedex-amber-two.vercel.app/api/graphql
+
 ```js
                                           ,'\
             _.----.        ____         ,'  _\   ___    ___     ____
